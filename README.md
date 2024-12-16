@@ -12,7 +12,7 @@ Este projeto é uma calculadora simples desenvolvida utilizando HTML, CSS e Java
 
 ## Demonstração
 
-![Calculadora Simples](<src/assets/Calculadora.png>)
+![Calculadora Simples](<assets/Calculadora.png>)
 
 ## Tecnologias Utilizadas
 
